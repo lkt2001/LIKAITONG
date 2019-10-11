@@ -1,4 +1,4 @@
-﻿
+﻿你好
 void BubbleSort(int *arr, int size)  
 {  
     int i, j, tmp;  
