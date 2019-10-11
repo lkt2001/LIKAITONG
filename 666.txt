@@ -12,6 +12,4 @@ void BubbleSort(int *arr, int size)
         }  
     }  
 }
-你好
 
-ihgjkhjk
