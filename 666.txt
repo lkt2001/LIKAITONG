@@ -1,4 +1,4 @@
-﻿你好呀！
+﻿你好呀！我是Bill
 void BubbleSort(int *arr, int size)  
 {  
     int i, j, tmp;  
