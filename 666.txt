@@ -8,6 +8,7 @@ void BubbleSort(int *arr, int size)
                 tmp = arr[j];  
                 arr[j] = arr[j+1];  
                 arr[j+1] = tmp;  
+	我是Allen！
             }  
         }  
     }  
